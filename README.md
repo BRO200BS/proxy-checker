@@ -8,6 +8,8 @@ Sure! Here's a professional and clear **README.md** you can use for your proxy c
 A simple Python script to check the availability of proxies by testing them against multiple websites concurrently. The script reads proxies from a file, tests them, and saves the working ones to another file.
 
 ---
+After running example:
+<img width="580" height="190" alt="image" src="https://github.com/user-attachments/assets/940597f8-ef8f-4514-b176-4d98d305fd32" />
 
 ## Features
 
