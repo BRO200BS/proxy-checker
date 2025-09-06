@@ -1,0 +1,2 @@
+# proxy-checker
+ONLY HTTP
