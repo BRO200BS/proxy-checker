@@ -1,2 +1,2 @@
 # proxy-checker
-ONLY HTTP
+ONLY HTTP(S)
